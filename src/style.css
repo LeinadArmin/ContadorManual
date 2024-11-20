@@ -1,0 +1,17 @@
+body {
+  background-color: #f8f9fa;
+}
+
+h1 {
+  margin-bottom: 30px;
+}
+
+#count {
+  font-size: 4rem;
+  margin-bottom: 20px;
+}
+
+.btn-group .btn {
+  width: 150px;
+  font-size: 1.5rem;
+}
