@@ -9,14 +9,11 @@ Este proyecto es una aplicación desarrollada con Vue.js que permite contar manu
 - [Instalación](#instalación)
 - [Configuración](#configuración)
 - [Uso](#uso)
-- [Estructura del Proyecto](#estructura-del-proyecto)
 - [Dependencias Principales](#dependencias-principales)
 - [Manejo de Eventos y Estado](#manejo-de-eventos-y-estado)
 - [Estilos y Diseño](#estilos-y-diseño)
 - [Pruebas](#pruebas)
-- [Mejores Prácticas y Consideraciones de Seguridad](#mejores-prácticas-y-consideraciones-de-seguridad)
-- [Referencias y Recursos Adicionales](#referencias-y-recursos-adicionales)
-- [Licencia](#licencia)
+
 
 ## Características
 
