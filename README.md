@@ -43,7 +43,6 @@ Sigue estos pasos para instalar y ejecutar el proyecto en tu entorno local:
 ## Clonar el repositorio:
 
 git clone https://github.com/LeinadArmin/ContadorManual.git
-cd tu-repositorio
 
 ## Instalar las dependencias:
 npm install
