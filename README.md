@@ -52,16 +52,6 @@ Instalar las dependencias:
 bash
 Copiar código
 npm install
-Configuración
-Antes de ejecutar la aplicación, es necesario configurar las variables de entorno:
-
-## Crear un archivo .env en la raíz del proyecto con el siguiente contenido:
-
-bash
-Copiar código
-VITE_API_URL=https://ikcount.com/iklab/ikcount/api/counting/command
-VITE_ACCESS_TOKEN=tu_token_de_acceso
-Reemplaza tu_token_de_acceso con el token proporcionado para la API.
 
 ## Uso
 Para iniciar la aplicación en modo de desarrollo, ejecuta:
