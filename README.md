@@ -34,7 +34,6 @@ Asegúrate de tener instalados los siguientes componentes en tu sistema:
 
 Puedes verificar las versiones instaladas ejecutando:
 
-bash
 node -v
 npm -v
 
@@ -43,21 +42,15 @@ Sigue estos pasos para instalar y ejecutar el proyecto en tu entorno local:
 
 ## Clonar el repositorio:
 
-bash
-Copiar código
 git clone https://github.com/tu-usuario/tu-repositorio.git
 cd tu-repositorio
-Instalar las dependencias:
 
-bash
-Copiar código
+## Instalar las dependencias:
 npm install
 
 ## Uso
 Para iniciar la aplicación en modo de desarrollo, ejecuta:
 
-bash
-Copiar código
 npm run dev
 La aplicación estará disponible en http://localhost:3000.
 
