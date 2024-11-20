@@ -42,7 +42,7 @@ Sigue estos pasos para instalar y ejecutar el proyecto en tu entorno local:
 
 ## Clonar el repositorio:
 
-git clone https://github.com/tu-usuario/tu-repositorio.git
+git clone https://github.com/LeinadArmin/ContadorManual.git
 cd tu-repositorio
 
 ## Instalar las dependencias:
@@ -52,10 +52,7 @@ npm install
 Para iniciar la aplicación en modo de desarrollo, ejecuta:
 
 npm run dev
-La aplicación estará disponible en http://localhost:3000.
-
-## Estructura del Proyecto
-La estructura principal del proyecto es la siguiente:
+La aplicación estará disponible en http://localhost:5173.
 
 ## Dependencias Principales
 Las principales dependencias utilizadas en este proyecto son:
